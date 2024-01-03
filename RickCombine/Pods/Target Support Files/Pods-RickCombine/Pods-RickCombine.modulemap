@@ -1,0 +1,6 @@
+module Pods_RickCombine {
+  umbrella header "Pods-RickCombine-umbrella.h"
+
+  export *
+  module * { export * }
+}

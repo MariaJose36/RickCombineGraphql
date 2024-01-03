@@ -1,0 +1,7 @@
+#platform :ios, '17.0'
+
+target 'RickCombine' do
+ # use_frameworks!
+
+  pod 'Apollo', '~> 0.20'
+end
